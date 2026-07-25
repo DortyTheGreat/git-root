@@ -1,3 +1,12 @@
 [submodule "games/minecraft/PingSpoof"]
 	path = games/minecraft/PingSpoof
 	url = https://github.com/DortyTheGreat/PingSpoof.git
+[submodule "games/minecraft/FileAutoLogin"]
+	path = games/minecraft/FileAutoLogin
+	url = https://github.com/DortyTheGreat/FileAutoLogin.git
+[submodule "games/minecraft/LitematicaPrinterPlus"]
+	path = games/minecraft/LitematicaPrinterPlus
+	url = https://github.com/DortyTheGreat/LitematicaPrinterPlus.git
+[submodule "games/minecraft/TradeAura"]
+	path = games/minecraft/TradeAura
+	url = https://github.com/DortyTheGreat/TradeAura.git
