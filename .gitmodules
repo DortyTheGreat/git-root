@@ -1,0 +1,3 @@
+[submodule "games/minecraft/PingSpoof"]
+	path = games/minecraft/PingSpoof
+	url = https://github.com/DortyTheGreat/PingSpoof.git
