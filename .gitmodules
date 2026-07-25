@@ -10,3 +10,6 @@
 [submodule "games/minecraft/TradeAura"]
 	path = games/minecraft/TradeAura
 	url = https://github.com/DortyTheGreat/TradeAura.git
+[submodule "games/minecraft/DoubleCrystalPopper"]
+	path = games/minecraft/DoubleCrystalPopper
+	url = https://github.com/DortyTheGreat/DoubleCrystalPopper.git
