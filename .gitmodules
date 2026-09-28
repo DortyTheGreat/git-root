@@ -13,3 +13,6 @@
 [submodule "games/minecraft/DoubleCrystalPopper"]
 	path = games/minecraft/DoubleCrystalPopper
 	url = https://github.com/DortyTheGreat/DoubleCrystalPopper.git
+[submodule "games/dont-starve-together/turbo-jimbo-3"]
+	path = games/dont-starve-together/turbo-jimbo-3
+	url = https://github.com/DortyTheGreat/turbo-jimbo-3.git
