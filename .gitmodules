@@ -16,3 +16,6 @@
 [submodule "games/dont-starve-together/turbo-jimbo-3"]
 	path = games/dont-starve-together/turbo-jimbo-3
 	url = https://github.com/DortyTheGreat/turbo-jimbo-3.git
+[submodule "games/minecraft/deprecated/LitematicaPrinterPlus"]
+	path = games/minecraft/deprecated/LitematicaPrinterPlus
+	url = https://github.com/DortyTheGreat/LitematicaPrinterPlus.git
