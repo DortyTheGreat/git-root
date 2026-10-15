@@ -1,6 +1,12 @@
 [submodule "games/minecraft/PingSpoof"]
 	path = games/minecraft/PingSpoof
 	url = https://github.com/DortyTheGreat/PingSpoof.git
+[submodule "games/minecraft/FileAutoLogin"]
+	path = games/minecraft/FileAutoLogin
+	url = https://github.com/DortyTheGreat/FileAutoLogin.git
+[submodule "games/minecraft/TradeAura"]
+	path = games/minecraft/TradeAura
+	url = https://github.com/DortyTheGreat/TradeAura.git
 [submodule "games/minecraft/LitematicaPrinterPlus"]
 	path = games/minecraft/LitematicaPrinterPlus
 	url = https://github.com/DortyTheGreat/LitematicaPrinterPlus.git
@@ -10,6 +16,9 @@
 [submodule "games/dont-starve-together/turbo-jimbo-3"]
 	path = games/dont-starve-together/turbo-jimbo-3
 	url = https://github.com/DortyTheGreat/turbo-jimbo-3.git
+[submodule "games/dont-starve-together/QuaQueen"]
+	path = games/dont-starve-together/QuaQueen
+	url = https://github.com/DortyTheGreat/QuaQueen.git
 [submodule "games/minecraft/deprecated/LitematicaPrinterPlus"]
 	path = games/minecraft/deprecated/LitematicaPrinterPlus
 	url = https://github.com/DortyTheGreat/LitematicaPrinterPlus.git
