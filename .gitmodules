@@ -22,3 +22,6 @@
 [submodule "games/minecraft/deprecated/LitematicaPrinterPlus"]
 	path = games/minecraft/deprecated/LitematicaPrinterPlus
 	url = https://github.com/DortyTheGreat/LitematicaPrinterPlus.git
+[submodule "games/dont-starve-together/BetterLagComp"]
+	path = games/dont-starve-together/BetterLagComp
+	url = https://github.com/DortyTheGreat/BetterLagComp.git
